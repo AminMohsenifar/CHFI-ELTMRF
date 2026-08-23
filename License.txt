@@ -1,0 +1,29 @@
+CHFI-ELTMRF Research-Only License
+
+Copyright (c) 2026. All rights reserved.
+
+This software module and the released datasets are provided exclusively
+for academic and research purposes.
+
+Permission is granted to use this software for non-commercial research,
+academic study, scientific evaluation, and reproducibility of the results
+reported in the associated publication.
+
+Use of this software for commercial purposes, paid projects, consultancy,
+industrial applications, or any other purpose outside academic and research
+activities is not permitted without prior written permission from the
+corresponding author.
+
+Users are not permitted to redistribute, sublicense, sell, or incorporate
+this software, in whole or in part, into commercial products or services
+without prior written permission.
+
+If this software contributes to a scientific publication, presentation,
+thesis, or other research output, users are requested to cite the associated
+publication.
+
+Access to the software does not imply permission for unrestricted use.
+A valid research license file is required for the execution of the module.
+
+For permission requests or questions regarding the use of this software,
+please contact the corresponding author with 'CHFI-ELTMRF module' in the subject line.

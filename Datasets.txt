@@ -1,0 +1,16 @@
+The flood datasets related to this work contain bi-temporal Sentinel-1 SAR imagery together with
+corresponding ground truth data, publicly available in two formats at the following links:
+
+1-Flood Change Detection Dataset for Classic Change Detection:
+https://zenodo.org/records/22042830
+
+2-S1FCD8: Sentinel-1 Flood Change Detection Dataset for Deep Learning:
+https://zenodo.org/records/22055761
+
+If you use these datasets in your research, please cite the following article:
+
+Mohsenifar, A., Mohammadzadeh, A., Moghimi, A., & Jamali, S. (2026).
+A novel change homogenizing flood index and an expedited locally tuned Markov random field model
+for unsupervised rural floodwater detection in Sentinel-1 data: An application to flood impact assessment.
+ISPRS Journal of Photogrammetry and Remote Sensing.
+https://doi.org/10.1016/j.isprsjprs.2026.08.021
