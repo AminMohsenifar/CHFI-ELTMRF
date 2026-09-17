@@ -17,7 +17,9 @@ If you use this code in your research, please cite the associated article.
 
 ### A) Method Overview
 
-The proposed flood detection framework consists of two main stages.
+According to the following figure, the proposed flood detection framework algorithmically consists of two main stages.
+
+<img width="4500" height="5856" alt="GFlowchart" src="https://github.com/user-attachments/assets/78ec04d9-fa66-47d0-998a-26118059767d" />
 
 1. Change Homogenizing Flood Index (CHFI)
 
