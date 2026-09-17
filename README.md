@@ -21,6 +21,7 @@ According to the following figure, the proposed flood detection framework algori
 
 <img width="4500" height="5856" alt="GFlowchart" src="https://github.com/user-attachments/assets/78ec04d9-fa66-47d0-998a-26118059767d" />
 
+
 1. Change Homogenizing Flood Index (CHFI)
 
 CHFI is formed by combining complementary flood-change information derived from the pre- and post-flood Sentinel-1 SAR images. A key component of CHFI is the Flood-Change Homogenizing Regulator (FCHR), which is designed to mitigate the dependency of flood-change magnitude on reference backscatter and thereby reduce the heterogeneity of flood-related changes.
